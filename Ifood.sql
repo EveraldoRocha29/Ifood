@@ -1,6 +1,6 @@
 create table user
 
-*/criar de tabelas */
+*/criar tabelas */
 CREATE TABLE Usuario (
 ID INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
 dateCreate INT,
